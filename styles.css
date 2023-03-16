@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+.box {
+    width: 75%;
+    height: 250px;
+    background-color: #f5f5f5;
+    margin-left: 20px;
+    padding: 40PX;
+}
+
+.rec1 {
+
+    background-color: white;
+    width: 95%;
+    height: 80px;
+
+}
+
+.rec2 {
+    margin-top: 40PX;
+    background-color: white;
+    width: 95%;
+    height: 80px;
+
+}
+
+.p1 {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.p2 {
+
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+}
